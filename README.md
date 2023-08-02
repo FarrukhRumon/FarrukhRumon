@@ -11,7 +11,7 @@ Skills: CCNA/MTCNA/LINUX/PYTHON/HTML / CSS
 - 💬 Ask me about CCNA,MTCNA,LINUX,CYBER SECURITY 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarrukhRumon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/farrukh-ahmad-347997112/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarrukhRumon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/farrukh-ahmad-347997112/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarrukhRumon&show_icons=true&count_private=true)  
 
