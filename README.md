@@ -18,8 +18,6 @@ Skills:
 - ✔ Ask me about CCNA,MTCNA,LINUX,CYBER SECURITY 
 
 ## Connect with me!
-![image](https://github.com/FarrukhRumon/FarrukhRumon/assets/141225438/3b0b11c9-6e48-456e-ab1b-fb9a79bb0736) ![image](https://github.com/FarrukhRumon/FarrukhRumon/assets/141225438/4b1a6760-f289-4549-b416-ebce6f109786)
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarrukhRumon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/farrukh-ahmad-347997112/)  
 
