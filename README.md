@@ -6,9 +6,9 @@ I have a Bachelor’s Degree in computer science and Diploma Degree in Computer 
 
 Skills: CCNA/MTCNA/LINUX/PYTHON/HTML / CSS
 
-- 🔭 I’m currently working on this page.CCNA/MTCNA/LINUX/PYTHON/CYBER SECURITY 
-- 🌱 I’m currently learning Cyber Security & python 
-- 💬 Ask me about CCNA,MTCNA,LINUX,CYBER SECURITY 
+- ✔ I’m currently working on this page.CCNA/MTCNA/LINUX/PYTHON/CYBER SECURITY 
+- ✔ I’m currently learning Cyber Security & python 
+- ✔ Ask me about CCNA,MTCNA,LINUX,CYBER SECURITY 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarrukhRumon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/farrukh-ahmad-347997112/)  
