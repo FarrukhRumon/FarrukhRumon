@@ -15,8 +15,6 @@ Skills:
 - ✔ I’m currently learning Cyber Security & python 
 - ✔ Ask me about CCNA,MTCNA,LINUX,CYBER SECURITY
 
-  Professional Experience:
-- [Senior Executive] at [Bengal Group Ltd.]
 
 ## Connect with me!
 
