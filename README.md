@@ -1,7 +1,5 @@
 ### Hi there 👋, This is Farrukh ahmad
 #### Cyber Security Enthusiast
-![Cyber Security Enthusiast](https://media.licdn.com/dms/image/D5616AQG7rxyOTDXRoQ/profile-displaybackgroundimage-shrink_350_1400/0/1690964261801?e=1696464000&v=beta&t=oaadbWIHP-vSx0BL5mdwsfxoblM9HevaSTDTICQ6M-E)
-
 I have a Bachelor’s Degree in computer science and Diploma Degree in Computer technology with 6+ years of experience in the IT Sector. I am currently employed at Bengal Group Limited, in my recent position as the Senior Executive- IT, I have gained hands-on experience in networking, and collaborating on network projects. Managing and monitoring the operational activities of the collegewide data/voice/video network including design, installation, configuration, maintenance, and security. Designing, configuring, and maintaining network infrastructure components, and troubleshooting networks to diagnose system problems. Identifying, locating, resolving, and repairing problems, installing and configuring software upgrades, file sharing, and domain security protocols.  I possess impeccable design and advanced computer skills, especially in networking, software, and hardware. My attention to detail and excellent problem-solving skills ensures that every IT troubleshooting I work on is done accurately and to the highest possible standard.
 
 Skills: 
