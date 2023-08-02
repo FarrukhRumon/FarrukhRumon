@@ -1,15 +1,22 @@
-# Hi there 👋
+### Hi there 👋, This is Farrukh Ahmad Rumon
+#### Cyber Security Enthusiast
+![Cyber Security Enthusiast](https://media.licdn.com/dms/image/D5616AQG7rxyOTDXRoQ/profile-displaybackgroundimage-shrink_350_1400/0/1690964261801?e=1696464000&v=beta&t=oaadbWIHP-vSx0BL5mdwsfxoblM9HevaSTDTICQ6M-E)
 
-**FarrukhRumon/FarrukhRumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a Bachelor’s Degree in computer science and Diploma Degree in Computer technology with 6+ years of experience in the IT Sector. I am currently employed at Bengal Group Limited, in my recent position as the Senior Executive- IT, I have gained hands-on experience in networking, and collaborating on network projects. Managing and monitoring the operational activities of the collegewide data/voice/video network including design, installation, configuration, maintenance, and security. Designing, configuring, and maintaining network infrastructure components, and troubleshooting networks to diagnose system problems. Identifying, locating, resolving, and repairing problems, installing and configuring software upgrades, file sharing, and domain security protocols.  I possess impeccable design and advanced computer skills, especially in networking, software, and hardware. My attention to detail and excellent problem-solving skills ensures that every IT troubleshooting I work on is done accurately and to the highest possible standard.
 
-Here are some ideas to get you started:
+Skills: CCNA/MTCNA/LINUX/PYTHON/HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on CCNA/MTCNA/LINUX/PYTHON/CYBER SECURITY 
+- 🌱 I’m currently learning CYBER SECURITY 
+- 💬 Ask me about CYBER SECURITY 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarrukhRumon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/FARRUKH AHMAD/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarrukhRumon&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FarrukhRumon)  
+
+![Profile views](https://gpvc.arturio.dev/FarrukhRumon)  
