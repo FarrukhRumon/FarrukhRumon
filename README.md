@@ -1,4 +1,4 @@
-### Hi there 👋, This is Farrukh Ahmad Rumon
+### Hi there 👋, This is Farrukh ahmad
 #### Cyber Security Enthusiast
 ![Cyber Security Enthusiast](https://media.licdn.com/dms/image/D5616AQG7rxyOTDXRoQ/profile-displaybackgroundimage-shrink_350_1400/0/1690964261801?e=1696464000&v=beta&t=oaadbWIHP-vSx0BL5mdwsfxoblM9HevaSTDTICQ6M-E)
 
@@ -6,14 +6,12 @@ I have a Bachelor’s Degree in computer science and Diploma Degree in Computer 
 
 Skills: CCNA/MTCNA/LINUX/PYTHON/HTML / CSS
 
-- 🔭 I’m currently working on CCNA/MTCNA/LINUX/PYTHON/CYBER SECURITY 
-- 🌱 I’m currently learning CYBER SECURITY 
-- 💬 Ask me about CYBER SECURITY 
+- 🔭 I’m currently working on this page.CCNA/MTCNA/LINUX/PYTHON/CYBER SECURITY 
+- 🌱 I’m currently learning Cyber Security & python 
+- 💬 Ask me about CCNA,MTCNA,LINUX,CYBER SECURITY 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarrukhRumon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/FARRUKH AHMAD/)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarrukhRumon&show_icons=true&count_private=true)  
 
